@@ -1,0 +1,6 @@
+{
+  "name": "Dcode 2.0 AI",
+  "description": "Advanced 7B parameter AI model with Gemini integration, Linux terminal, Python environment, and Google Drive sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
